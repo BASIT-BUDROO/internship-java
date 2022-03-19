@@ -1,0 +1,2 @@
+module internship_Java {
+}
